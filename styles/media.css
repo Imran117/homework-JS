@@ -1,0 +1,11 @@
+@media(max-width:900px) {
+    .head{
+        display: flex;
+       flex-direction: column;
+    }
+    .head__link{
+        display: flex;
+        flex-direction: row;
+    }
+    
+}
